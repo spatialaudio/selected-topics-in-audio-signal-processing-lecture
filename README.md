@@ -1,6 +1,6 @@
 # Selected Topics in Audio Signal Processing
 This repository contains a collection of [Jupyter](https://jupyter.org/) notebooks as
-supplementary material to the masters course [Selected Topics in Audio Signal Processing] given by
+supplementary material to the masters course [Selected Topics in Audio Signal Processing](http://www.int.uni-rostock.de/Ausgewaehlte-Kapitel-der-digit.49.0.html) given by
 [Sascha Spors](http://www.int.uni-rostock.de/Staff-Info.23+B6JmNIYXNoPWUxOTliMTNjY2U2MDcyZjJiZTI0YTc4MmFkYTE5NjQzJnR4X2pwc3RhZmZfcGkxJTVCYmFja0lkJTVEPTMmdHhfanBzdGFmZl9waTElNUJzaG93VWlkJTVEPTExMQ__.0.html), Institute of Communications Engineering, Universität Rostock. You are invited to contribute by reporting errors and suggestions as
 [issues](https://github.com/spatialaudio/digital-signal-processing-lecture/issues)
 or directly via [Sascha.Spors@uni-rostock.de](mailto:Sascha.Spors@uni-rostock.de).
