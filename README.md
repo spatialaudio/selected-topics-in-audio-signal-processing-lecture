@@ -9,7 +9,7 @@ or directly via [Sascha.Spors@uni-rostock.de](mailto:Sascha.Spors@uni-rostock.de
 
 The Jupyter notebooks are available
 
-* Online as [static web pages](http://nbviewer.jupyter.org/urls/github.com/spatialaudio/selected-topics-in-audio-signal-processing-lecture/index.ipynb)
+* Online as [static web pages](http://nbviewer.jupyter.org/github/spatialaudio/selected-topics-in-audio-signal-processing-lecture/blob/master/index.ipynb)
 * Local (offline) use on your computer
 
 The local use on your computer requires a local Jupyter/IPython installation. The [Anaconda distribtution](https://www.continuum.io/downloads) provides a good starting point. You have to [download or clone the notebooks from Github](https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-lecture). Use a [Git](http://git-scm.org/) client to clone the notebooks and then start your local Jupyter server. For manual installation of Jupyter under OS X/Linux please refer to your packet manager.
