@@ -24,4 +24,5 @@ jobs:
       - uses: treebeardtech/treebeard@master
         with:
           use-docker: false
+          ignore: 'electroacoustics/acoustic_impulse_response_measurement.ipynb'
 
