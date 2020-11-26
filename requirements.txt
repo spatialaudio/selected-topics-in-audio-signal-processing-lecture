@@ -3,4 +3,6 @@ numpy
 scipy
 soundfile
 sympy
+sfs
+sounddevice
 
