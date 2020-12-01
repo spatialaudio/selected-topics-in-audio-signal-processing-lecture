@@ -10,6 +10,8 @@ on:
   schedule:
     - cron:  '30 1 1,15 * *'
 
+  workflow_dispatch:
+
 jobs:
   linux_py38:
     runs-on: ubuntu-latest
